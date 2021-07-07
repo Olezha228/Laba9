@@ -1,0 +1,7 @@
+C:\Users\olegf\source\repos\labor9\labor9\bin\Debug\labor9.exe.config
+C:\Users\olegf\source\repos\labor9\labor9\bin\Debug\labor9.exe
+C:\Users\olegf\source\repos\labor9\labor9\bin\Debug\labor9.pdb
+C:\Users\olegf\source\repos\labor9\labor9\obj\Debug\labor9.csprojAssemblyReference.cache
+C:\Users\olegf\source\repos\labor9\labor9\obj\Debug\labor9.csproj.CoreCompileInputs.cache
+C:\Users\olegf\source\repos\labor9\labor9\obj\Debug\labor9.exe
+C:\Users\olegf\source\repos\labor9\labor9\obj\Debug\labor9.pdb
